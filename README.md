@@ -27,7 +27,7 @@ The game randomly selects a number between 1 and 100, and the player has to gues
 2. Open the project in VS Code.
 3. Run the following command:
 
-  number_guessing_game.py
+   number_guessing_game.py
 
 4. Enter a number between 1 and 100.
 5. Follow the hints and continue guessing until you find the correct number.
